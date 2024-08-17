@@ -1,0 +1,9 @@
+[theme]
+backgroundColor = "#FFFFFF"
+
+[server]
+headless = true
+
+[global]
+# Force polling instead of inotify
+developmentMode = false
