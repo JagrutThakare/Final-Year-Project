@@ -92,3 +92,4 @@ urllib3==2.3.0
 watchdog==4.0.2
 yarl==1.18.3
 gradio_client
+python-dotenv
