@@ -1,6 +1,6 @@
 # Hybrid Detection System
 
-This project implements a **Hybrid Detection System** for detecting number plates, helmets, and triple riding violations on uploaded images. The system leverages pre-trained models hosted on **RoboFlow** for object detection and **TrOCR (Large Printed)** from Hugging Face for text extraction from number plates.
+This project implements a **Hybrid Detection System** for detecting number plates, helmets, and triple riding violations on uploaded images. The system leverages pre-trained models hosted on **RoboFlow** for object detection and **TrOCR (Large Printed)** from Hugging Face for text extraction from the number plates.
 
 ![](/data/project/Flowchart.png)
 ## Features
